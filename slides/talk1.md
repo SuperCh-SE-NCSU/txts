@@ -1,7 +1,9 @@
+
 % Proposal
 % Liang Dong
 % January 10th, 2015
 
+% Be happy 
 # In the morning
 
 
@@ -18,7 +20,6 @@
 Table:  Demonstration of simple table syntax.
 
 </center>
-
 The ziffness of dorkies must:
 
 - Eat eggs
