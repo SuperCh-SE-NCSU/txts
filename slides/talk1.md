@@ -1,10 +1,6 @@
 
 % Proposal
-
-
-
-
-% alannsp,dragonfly90,Winbobob 
+% SuperCh-SE-NCSU
 % January 10th, 2015
 
 
