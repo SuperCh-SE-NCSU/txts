@@ -1,9 +1,13 @@
 
 % Proposal
-% Liang Dong
+
+
+
+
+% alannsp,dragonfly90,Winbobob 
 % January 10th, 2015
 
-% Be happy 
+
 # In the morning
 
 
