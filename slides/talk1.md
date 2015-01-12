@@ -1,10 +1,9 @@
-% Proposal
+% Zhewei's Proposal
 % SuperCh-SE-NCSU
-% January 10th, 2015
+% January 12th, 2015
 
 
 # In the morning
-
 
 <center>
 
