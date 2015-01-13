@@ -55,6 +55,7 @@ dirs:
 
 files:
 	@cp -vrup $(Raw)/verbatim/* $(Out)
+	@cp -vrup $(Raw)/team_member_img/* $(Out)/img
 
 talks:  $(call target,slides,md,html,$(Raw),$(Out))
 dots  : $(call target,dot,dot,png,$(Raw),$(Out)/img)
