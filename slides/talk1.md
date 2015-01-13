@@ -1,7 +1,17 @@
-% Zhewei's Proposal
+% Project1 Proposal and Team Member Info
 % SuperCh-SE-NCSU
 % January 12th, 2015
 
+# Zhewei Hu
+
+<img align=left src="../img/zhewei.jpg">
+<center>
+- My name is Zhewei Hu.
+- I come from Zhejiang, China.
+- I am first year graduate student at NC State University.
+- I like watching and editing videos when I am free.
+- I believe I will learn a lot in this course!
+</center>
 
 # In the morning
 
