@@ -1,5 +1,5 @@
 
-Out=/afs/unity.ncsu.edu/users/z/zhu6/www/CSC510
+Out=../../www/cs510
 Raw=$(PWD)
 Lib=./lib
 
