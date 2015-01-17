@@ -67,9 +67,14 @@ This is how we roll
 
 rolling ![all the dat](../img/dot/dot1.png)
 
-# Conclusion
+# Euler's Identity
 
-- And the answer is...
-- $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
+<center>
+<div style="font-size:50px">
+- It is...
+- ${\HUGE e^{i\pi}+1=0 }$
+
+</div>
+</center>
 
 # References
