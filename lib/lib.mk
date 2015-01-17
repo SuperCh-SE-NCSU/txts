@@ -16,7 +16,7 @@ define target
 endef
 
 
-ready : dirs files dots talks plots pages
+ready : intergrate dirs files dots talks plots pages
 	@echo "See $(Out)"
 
 gitting:
@@ -43,6 +43,9 @@ update:
 
 status:
 	- git status
+
+intergrate:
+	cat $(Raw)/separate_slides/*.md > $(Raw)/slides/talk1.md
 
 Skeleton=dot etc plot slides verbatim/img
 dirs: 
