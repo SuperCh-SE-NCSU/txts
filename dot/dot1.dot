@@ -1,6 +1,6 @@
 digraph {
-  saturday -> sunday 
-  sunday  -> weekday [label="sad"];
-  weekday -> saturday [label="happy"];
+  Design -> Implement; 
+  Implement  -> Test;
+  Test -> Design [label="feedback"];
   
 }
