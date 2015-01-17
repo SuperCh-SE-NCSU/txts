@@ -24,7 +24,7 @@
 
 # Shupeng Niu
 
-<img aling=left src="../img/Shupeng.jpg">
+<img align=left src="../img/Shupeng.jpg" style="float:left;with:100px;height:300px">
 <center>
 - My name is Shupeng Niu.
 - I come from Henan, China.
@@ -32,29 +32,27 @@
 - I love Dota2, One Piece.
 </center>
 
-# In the morning
+# Energy use in Terawatt-hours
 
 <center>
 
-  Right     Left     Center     Default
--------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
-    456     78         910          12
-	 12     12        12            12
+years    Fossil   Nuclear    Renewable     Total
+-----    ------   -------    ---------    -------
+1990      83374      6113        13082     102569
+2000      94493      7857        15337     117687
+2008     117076      8283        18492     143851
+
 	
-Table:  Demonstration of simple table syntax.
+Table:  
 
 </center>
-The ziffness of dorkies must:
+To save the planet
 
-- Eat eggs
-- Drink coffee
+- Save energy
+- Walk more
 
-# In the evening
+# Beauty of Plot
 
-As shown here:
 
 <img align=right src="../img/plot/plot1.png">
 
