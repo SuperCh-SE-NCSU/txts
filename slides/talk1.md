@@ -1,7 +1,6 @@
 % Project1 Proposal and Team Member Info
 % SuperCh-SE-NCSU
 % January 12th, 2015
-
 # Zhewei Hu
 
 <img align=left src="../img/zhewei.jpg">
@@ -13,6 +12,7 @@
 - I believe I will learn a lot in this course!
 </center>
 
+
 # Liang Dong
 <img align=left src="../img/Liang.jpg" style="float:left;with:100px;height:300px">
 <center>
@@ -21,6 +21,7 @@
 - Love programming and basketball
 - Find me in <a href="http://dragonfly90.github.io">Personal Website</a>
 </center>
+
 
 # Shupeng Niu
 
@@ -31,6 +32,7 @@
 - Working on Physics and Computer Science.
 - I love Dota2, One Piece.
 </center>
+
 
 # Energy use in Terawatt-hours
 
