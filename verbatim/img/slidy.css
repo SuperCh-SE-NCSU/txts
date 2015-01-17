@@ -130,10 +130,10 @@ div.slide h1 {
   margin-right: 60pt;
   margin-bottom: 0.5em;
   display: block; 
-  font-size: 160%;
+  font-size: 180%;
   line-height: 1.2em;
   xbackground: transparent;
-  background-color: #CC0303;
+  background-color: rgba(255, 179, 48, 0.82);
 	color: white;
 
   padding-left: 10px;
