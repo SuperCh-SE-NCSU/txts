@@ -22,6 +22,16 @@
 - Find me in <a href="http://dragonfly90.github.io">Personal Website</a>
 </center>
 
+# Shupeng Niu
+
+<img aling=left src="../img/Shupeng.jpg">
+<center>
+- My name is Shupeng Niu.
+- I come from Henan, China.
+- Working on Physics and Computer Science.
+- I love Dota2, One Piece.
+</center>
+
 # In the morning
 
 <center>
