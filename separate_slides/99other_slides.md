@@ -27,11 +27,11 @@ To save the planet
 - as predicted by theory [@item1]
 
 
-# During the week
+# Developing method
 
-This is how we roll
+This is how we develop
 
-rolling ![all the dat](../img/dot/dot1.png)
+developing ![all the dat](../img/dot/dot1.png)
 
 # Euler's Identity
 
