@@ -1,7 +1,6 @@
 
-Out=../../www/cs510
+Out=../../www/SuperCh-SE-NCSU
 Raw=$(PWD)
 Lib=./lib
 
 include $(Lib)/lib.mk
-
