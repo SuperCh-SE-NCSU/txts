@@ -38,11 +38,7 @@
 #Project Ideas: 
 
 <center>
-<<<<<<< HEAD
-<div style="font-size:50px">
-=======
 <div style="font-size:40px" align="center">
->>>>>>> 55b8a3f3bb2ab2871b09f72d52f9dcc621e974a4
 - Our team want to develop a website<br/>which can be used for customers to find the latest information about used cars easily and efficiently.
 </div>
 </center>
@@ -55,11 +51,7 @@
 
 - <div style="font-size:35px"><b> Self-developed Python regular expression:</b></div>
 <i>We are going to use python urllib module which opens a communication link with a URL to download the raw content of the web site. Then we parse the raw content using regular expression and design data structure to store the information.</i>
-<<<<<<< HEAD
- 
-=======
 <p>Follow our public repository <a href="https://github.com/SuperCh-SE-NCSU/ProjectScraping">ProjectScraping</a> in Github</p>
->>>>>>> 55b8a3f3bb2ab2871b09f72d52f9dcc621e974a4
 - <div style="font-size:35px"><b>Scrapy:</b></div> 
 <i>Scrapy is an open-course and collaborative framework for extracting the data you need from websites in a fast, simple, yet extensible way.</i>
 
