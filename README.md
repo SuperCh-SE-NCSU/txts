@@ -1,2 +1,2 @@
 # txts
-Our first repository
+Our first repository includes our project proposal and personal introduction.
