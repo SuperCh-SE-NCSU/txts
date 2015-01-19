@@ -1,6 +1,6 @@
-% Project1 Proposal and Team Member Info
+% Team Member Info and Project1 Proposal
 % SuperCh-SE-NCSU
-% January 12th, 2015
+% January 19th, 2015
 # Zhewei Hu
 
 <img align=left src="../img/zhewei.jpg">
@@ -34,6 +34,48 @@
 </center>
 
 
+#Project Ideas: 
+
+<center>
+<div style="font-size:50px">
+- Our team want to develop a website<br/>which can be used for customers to find the car messages easily and efficiently.
+</div>
+</center>
+
+
+
+#Two approaches: 
+ 
+- We will develop this website using self-developed Python regular expression and Scrapy (a fast high-level screen scraping and web crawling framework, used to crawl websites and extract structured data from their pages) using Agile Development Model. 
+
+- <div style="font-size:35px"><b> Self-developed Python regular expression:</b></div>
+<i>We are going to use python urllib module which opens a communication link with a URL to download the raw content of the web site. And we will parse the raw content using regular expression and design data structure to store the information.</i>
+ 
+- <div style="font-size:35px"><b>Scrapy:</b></div> 
+<i>Scrapy is an open-course and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.</i>
+
+#Goals:  
+
+- Develop a website, offering car buyers the integrated information of used cars, based on the customer’s need and several most useful factors (model, year, website link and price range)
+
+- To be more specific, based on a customer’s need - car model, year of make, mileage, we find the posts on craiglist, which agree with the customer’s need and look up the price for the car on sale on the post from Kbb. Then our website will show the customer the posts(link to the original posts on craiglist) with cars he is interested in on sale and the price from Kbb. 
+Right now, people have to go to craiglist to find the car they are interested in with a seller’s price, and then go to kbb, checking out the review price.
+Our website will do the two jobs for the customer automatically,  and people can get updated information from our website’s subscription service.
+
+#Term Versions:
+
+- v0: minimal functionality (According to customers’ selected conditions on our website, send them emails including several most useful factors stated above from 2 websites, Craglist and kbb.)
+
+- v1: full functionality (Build a database of customers login information and search records. Everytime customer login our website, they will get latest information since last login. Customers can also get updated information from our website’s subscription service, eg. one time per day.)
+
+#Information sources:
+
+<center>
+<div style="font-size:80px">
+- Craglist
+- kbb.
+</div> 
+</center>
 # Energy use in Terawatt-hours
 
 <center>

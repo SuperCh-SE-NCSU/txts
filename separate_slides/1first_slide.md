@@ -1,3 +1,3 @@
-% Project1 Proposal and Team Member Info
+% Team Member Info and Project1 Proposal
 % SuperCh-SE-NCSU
-% January 12th, 2015
+% January 19th, 2015
