@@ -38,7 +38,7 @@
 
 <center>
 <div style="font-size:50px">
-- Our team want to develop a website<br/>which can be used for customers to find the car messages easily and efficiently.
+- Our team want to develop a website<br/>which can be used for customers to find latest information about used cars easily and efficiently.
 </div>
 </center>
 
@@ -49,10 +49,10 @@
 - We will develop this website using self-developed Python regular expression and Scrapy (a fast high-level screen scraping and web crawling framework, used to crawl websites and extract structured data from their pages) using Agile Development Model. 
 
 - <div style="font-size:35px"><b> Self-developed Python regular expression:</b></div>
-<i>We are going to use python urllib module which opens a communication link with a URL to download the raw content of the web site. And we will parse the raw content using regular expression and design data structure to store the information.</i>
+<i>We are going to use python urllib module which opens a communication link with a URL to download the raw content of the web site. Then we will parse the raw content using regular expression and design data structure to store the information.</i>
  
 - <div style="font-size:35px"><b>Scrapy:</b></div> 
-<i>Scrapy is an open-course and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.</i>
+<i>Scrapy is an open-course and collaborative framework for extracting the data you need from websites in a fast, simple, yet extensible way.</i>
 
 #Goals:  
 
@@ -64,9 +64,9 @@ Our website will do the two jobs for the customer automatically,  and people can
 
 #Term Versions:
 
-- v0: minimal functionality (According to customers’ selected conditions on our website, send them emails including several most useful factors stated above from 2 websites, Craglist and kbb.)
+- Version_1: Minimal functionality (According to customers’ selected conditions on our website, send them emails including several most useful factors stated above from 2 websites, Craglist and kbb.)
 
-- v1: full functionality (Build a database of customers login information and search records. Everytime customer login our website, they will get latest information since last login. Customers can also get updated information from our website’s subscription service, eg. one time per day.)
+- Version_2: Full functionality (Build a database of customers login information and search records. Everytime customer login our website, they will get latest information since last login. Customers can also get updated information from our website’s subscription service, eg. one time per day.)
 
 #Information sources:
 
