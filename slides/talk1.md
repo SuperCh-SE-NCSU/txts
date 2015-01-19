@@ -1,5 +1,6 @@
-% Team Member Info and Project1 Proposal
+% Team Member Info and Project_1 Proposal
 % SuperCh-SE-NCSU
+  Zhewei Hu, Liang Dong, Shupeng Niu
 % January 19th, 2015
 # Zhewei Hu
 
@@ -38,7 +39,7 @@
 
 <center>
 <div style="font-size:50px">
-- Our team want to develop a website<br/>which can be used for customers to find latest information about used cars easily and efficiently.
+- Our team want to develop a website<br/>which can be used for customers to find the latest information about used cars easily and efficiently.
 </div>
 </center>
 
@@ -49,18 +50,19 @@
 - We will develop this website using self-developed Python regular expression and Scrapy (a fast high-level screen scraping and web crawling framework, used to crawl websites and extract structured data from their pages) using Agile Development Model. 
 
 - <div style="font-size:35px"><b> Self-developed Python regular expression:</b></div>
-<i>We are going to use python urllib module which opens a communication link with a URL to download the raw content of the web site. Then we will parse the raw content using regular expression and design data structure to store the information.</i>
+<i>We are going to use python urllib module which opens a communication link with a URL to download the raw content of the web site. Then we parse the raw content using regular expression and design data structure to store the information.</i>
  
 - <div style="font-size:35px"><b>Scrapy:</b></div> 
 <i>Scrapy is an open-course and collaborative framework for extracting the data you need from websites in a fast, simple, yet extensible way.</i>
 
 #Goals:  
 
-- Develop a website, offering car buyers the integrated information of used cars, based on the customer’s need and several most useful factors (model, year, website link and price range)
+- Develop a website, offering car buyers the integrated information of used cars, based on customers’ needs and several most useful factors (model, year, website link and price range).
 
-- To be more specific, based on a customer’s need - car model, year of make, mileage, we find the posts on craiglist, which agree with the customer’s need and look up the price for the car on sale on the post from Kbb. Then our website will show the customer the posts(link to the original posts on craiglist) with cars he is interested in on sale and the price from Kbb. 
-Right now, people have to go to craiglist to find the car they are interested in with a seller’s price, and then go to kbb, checking out the review price.
-Our website will do the two jobs for the customer automatically,  and people can get updated information from our website’s subscription service.
+- To be more specific, based on a customer’s needs(car model, year of make, mileage,etc) we find the posts on craiglist, which agree with the customer’s needs and look up the price for the car on sale on the post from Kbb. 
+Then our website will show the customer the posts(link to the original posts on craiglist) with cars he is interested in on sale and the price from Kbb. 
+- Advantage: Right now, people have to go to craiglist to find the car they are interested in with a seller’s price, and then go to kbb, checking out the review price.It’s a pain to look up cars’ kbb price again and again.
+Our website will do the two jobs for customers automatically, and people can get updated information emailed to them from our website’s subscription service.
 
 #Term Versions:
 
